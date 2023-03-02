@@ -9,6 +9,7 @@ A Django e-commerce project currently being developed while watching the Django-
 Technologies and techniques being used: Django, Python, HTML, CSS, Ajax, Bootstrap, unit testing, etc 
 
 **2. My e-commerce website**
+[screen-capture.webm](https://user-images.githubusercontent.com/108428179/222444917-e0726333-c308-4fea-a0a8-47dca715ea1c.webm)
 
 **3. Features I hope to implement in future**
 
