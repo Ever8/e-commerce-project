@@ -14,6 +14,9 @@ Technologies and techniques being used: Django, Python, HTML, CSS, Ajax, Bootstr
 
 **3. Features I hope to implement in future**
 
+- Offer multiple payment options
+- Offer fun quizzes that test programming knowledge
+
 **4. Credits**
 
 The Django-Ecommerce Project playlist by Very Academy on YouTube (https://www.youtube.com/playlist?list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_). 
